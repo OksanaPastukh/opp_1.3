@@ -1,0 +1,8 @@
+﻿  Money.cpp
+C:\Users\ksush\source\repos\Project_opp_1.3\Project_opp_1.3\Money.cpp(39,18): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+C:\Users\ksush\source\repos\Project_opp_1.3\Project_opp_1.3\Money.cpp(40,18): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\ksush\source\repos\Project_opp_1.3\Project_opp_1.3\Money.cpp(61,17): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+C:\Users\ksush\source\repos\Project_opp_1.3\Project_opp_1.3\Money.cpp(62,17): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+  project_opp_1.3.cpp
+  Создание кода...
+  Project_opp_1.3.vcxproj -> C:\Users\ksush\source\repos\Project_opp_1.3\Debug\Project_opp_1.3.exe
